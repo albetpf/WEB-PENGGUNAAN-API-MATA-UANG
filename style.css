@@ -1,0 +1,39 @@
+body {
+    background-color: #162A2C;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #F4EFE6;
+    box-shadow: #F4EFE6;
+    border-radius: 8px;
+}
+h1 {
+    color: #000000;
+    text-align: center;
+    font-weight: 700;
+}
+.form-select {
+    border-radius: 5px;
+    border: 1px solid #000000;
+    padding: 10px;
+    color: #000000;
+}
+.btn-success {
+    background-color: #0d9726;
+    border-color: #000000;
+    padding: 10px;
+}
+#rates {
+    background-color: #D6E0E2;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #162A2C
+}
+table {
+    width: 250%;
+    margin-top: 20px;
+}
