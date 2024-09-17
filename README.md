@@ -1,1 +1,1 @@
-Menggunakan pemrograman HTML, CSS dan Javascript dan menambahkan API mata uang untuk melihat perbedaan uang negera lain
+Proyek ini adalah aplikasi berbasis web yang memanfaatkan API mata uang untuk membandingkan nilai tukar antara berbagai mata uang. Aplikasi ini dikembangkan menggunakan bahasa pemrograman HTML, CSS, dan JavaScript. Fungsinya meliputi konversi mata uang secara real-time, memberikan perbandingan nilai tukar berbagai negara, serta menampilkan hasilnya dalam antarmuka web yang interaktif.
